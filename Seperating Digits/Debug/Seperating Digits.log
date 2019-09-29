@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\joshu\documents\repositories\seperating digits\seperating digits\main.cpp(18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Seperating Digits.vcxproj -> C:\Users\joshu\Documents\Repositories\Seperating Digits\Debug\Seperating Digits.exe
